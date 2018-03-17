@@ -21,3 +21,19 @@ La conférence débute le week-end (samedi et dimanche) par un hackathon. Il fau
 
 Moi, je suis un peu fou-fou... alors ce genre de défit ça me plait bien. Sortir de sa zone de confort, se confronter à d'autres choses, travailler en équipe autour d'un projet innovant, des fois jamais encore réalisé : voilà une belle motivation. Bingo! je demande à mon employeur si je peux aussi y aller et OK, c'est accepté. #Cool aussi.
 
+
+## Préparation de l'hackathon
+Un hackathon ça se prépare. Il y a les *Champions* (capitaine, porteur d'un sujet, référent, souvent des personnes avec une expériences très-très importante) et les participants (comme moi) qui seront là pour étudier et coder les projets/sujets proposés par les Champions.
+
+Les Champions doivent proposer et décrire à l'avance leurs projets/sujets afin que globalement l'hackathon ait un sens et que les participants puissent s'engager sur tel ou tel sujet en fonction des affinités. Pour l'IETF101, les sujets sont [là](https://trac.ietf.org/trac/ietf/meeting/wiki/101hackathon). Je suis allé régulièrement sur cette page et au fur et à mesute j'y voyais apparaitre des sujets qui "piquent" (au sens c'est bien-bien compliqué) tous autant intéressant les uns que les autres mais posant tellement de question... Des sujets comme :
+
+> Demonstration of DNSProxy by Massimiliano Fantuzzi, a local proxy written in C, using a early pre-DoH schema.
+> Development of Sending and Receiving Implementations of multipart/multilingual content types. This refers to RFC 8255 - Multiple Language Content Type.
+> Measuring leakage from IoT with a MITM proxy.
+> An open reference platform implementing an "AMT Gateway" as described in BCP 213 section 3.3.
+> IPv6 compression and fragmentation for LPWAN technologies is being defined at the LPWAN WG.
+> Considerations for Benchmarking Virtual Network Functions and Their Infrastructure.
+> ...
+
+ça laisse réveurs... non ?!
+
