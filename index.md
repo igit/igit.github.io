@@ -23,9 +23,7 @@ Moi, je suis un peu fou-fou... alors ce genre de défit ça me plait bien. Sorti
 
 
 ## Préparation de l'hackathon
-Un hackathon ça se prépare. Il y a les *Champions* (capitaine, porteur d'un sujet, référent, souvent des personnes avec une expériences très-très importante) et les participants (comme moi) qui seront là pour étudier et coder les projets/sujets proposés par les Champions.
-
-Les Champions doivent proposer et décrire à l'avance leurs projets/sujets afin que globalement l'hackathon ait un sens et que les participants puissent s'engager sur tel ou tel sujet en fonction des affinités. Pour l'IETF101, les sujets sont [là](https://trac.ietf.org/trac/ietf/meeting/wiki/101hackathon). Je suis allé régulièrement sur cette page et au fur et à mesute j'y voyais apparaitre des sujets qui "piquent" (au sens c'est bien-bien compliqué) tous autant intéressant les uns que les autres mais posant tellement de question... Des sujets comme :
+Un hackathon ça se prépare. Il y a les *Champions* (capitaine, porteur d'un sujet, référent, souvent des personnes avec une expériences très-très importante) et les participants (comme moi) qui seront là pour étudier et coder les projets/sujets proposés par les Champions. Les Champions doivent proposer et décrire à l'avance leurs projets/sujets afin que globalement l'hackathon ait un sens et que les participants puissent s'engager sur tel ou tel sujet en fonction des affinités. Pour l'IETF101, les sujets sont [là](https://trac.ietf.org/trac/ietf/meeting/wiki/101hackathon). Je suis allé régulièrement sur cette page et au fur et à mesute j'y voyais apparaitre des sujets qui "piquent" (au sens c'est bien-bien compliqué) tous autant intéressant les uns que les autres mais posant tellement de questions... Des sujets comme :
 
 > Demonstration of DNSProxy by Massimiliano Fantuzzi, a local proxy written in C, using a early pre-DoH schema.
 
@@ -42,3 +40,9 @@ Les Champions doivent proposer et décrire à l'avance leurs projets/sujets afin
 > ...
 
 ça laisse réveurs... non ?!
+
+Il fallait bien que je me décide. Je devais trouver le bon rapport entre la prise de risque d'aller sur un sujet non-maitrisé, sortir de ma zone de confort, ne pas non plus me mettre en galère pour que ces 2 jours restent aggréables et que je puisse être utile à quelque chose. 
+
+> Plouf-plouf, à trois ça sera le sujet là. Un, Deux et TROIS !
+
+Ça sera "Development of Sending and Receiving Implementations of multipart/multilingual content types. This refers to [RFC 8255](https://trac.tools.ietf.org/html/rfc8255) - Multiple Language Content Type". Bon, encore faut-il que le Champion veuillent bien de moi car c'est lui qui fait son équipe !
