@@ -5,7 +5,7 @@
 > Notes aux lecteurs français : pour livrer mes impressions "à chaud" je devrai écrire très vite sans pouvoir toujours me relire correctement, il y aura sans doute beaucoup de fautes de syntaxe, grammaire et conjugaison dans le texte. Soyez indulgents, j'y revendrai plus tard.
 
 <img src="profil-as.png" style="float: right; width: 200px;"/>
-Je suis Alexandre SIMON (*Alex*) et je vais vous raconter la première particiaption à la conférence de l'IETF.
+Je suis Alexandre SIMON (*Alex*) et je vais vous raconter ma première particiaption à la conférence de l'[IETF](https://ietf.org/).
 
 
 ## Qu'est-ce que je fais là ?
