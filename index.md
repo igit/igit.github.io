@@ -1,8 +1,11 @@
-# My first IETF Meeting | Ma première confèrence de l'IETF
+# My first IETF Meeting | Ma première conférence de l'IETF
 
 > Notes to english readers : for the moment this story/log book is only in french... I hope to be able to translate it asap... if some of you want to help me, you're welcome ;-)
 
 > Notes aux lecteurs français : pour livrer mes impressions "à chaud" je devrai écrire très vite sans pouvoir toujours me relire correctement, il y aura sans doute beaucoup de fautes de syntaxe, grammaire et conjugaison dans le texte. Soyez indulgents, j'y revendrai plus tard.
+
+<img src="profil-as.png" style="float: right; width: 200px;"/>
+Je suis Alexandre SIMON (*Alex*) et je vais vous raconter la première particiaption à la conférence de l'IETF.
 
 
 ## Qu'est-ce que je fais là ?
@@ -49,3 +52,10 @@ Il fallait bien que je me décide. Je devais trouver le bon rapport entre la pri
 
 <img src="IETF101-101hackathon-RFC8255-Multiple-Language-Content-Type.png" style="float: right; width: 400px;"/>
 J'avais repéré ce sujet il y a déjà quelques temps et ça me trottait dans la tête. J'ai donc commencé à regarder plus précisement ce qui se cachait derrière ce titre. De fil en aiguille, les choses me parraissent plus clairs, c'est dans mes cordes, les idées me viennent sans trop me torturer. Deux jours avant le départ je pose mes idées sur une carte heuristique afin de structurer ma pensée et voir ce qui sera possible de faire en l'espace de 48h. Il convient de ne pas trop être "gourmand" et ne pas se lancer dans des choses qui n'aboutiront au terme de 48h. Le but de l'hackathon est de "montrer" quelque chose qui fonctionne à minima. Mais des fois même le minima... c'est long et compliqué.
+
+J'échange ce document avec mon Champion *Nik Tomkinson* et son retour est plutôt enthousiaste :
+
+> Hi Alex, thanks for the email and the diagram. There certainly seems to be quite a
+lot of great ideas there. \[...] Thanks again for all of your great ideas and I look forward to working with you this weekend.
+
+Je suis sur la bonne voie. On est jeudi 15 mars, 2 jours avant le début de l'hackathon. Suis #confiant.
