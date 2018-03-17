@@ -1,6 +1,8 @@
 # My first IETF Meeting | Ma première confèrence de l'IETF
 
-English readers : for the moment this story/log book is only in french... I hope to be able to translate it asap... if some of you want to help me, you're welcome ;-)
+> Notes to english readers : for the moment this story/log book is only in french... I hope to be able to translate it asap... if some of you want to help me, you're welcome ;-)
+
+> Notes aux lecteurs français : pour livrer mes impressions "à chaud" je devrai écrire très vite sans pouvoir toujours me relire correctement, il y aura sans doute beaucoup de fautes de syntaxe, grammaire et conjugaison dans le texte. Soyez indulgents, j'y revendrai plus tard.
 
 
 ## Qu'est-ce que je fais là ?
@@ -18,5 +20,4 @@ Donc, voilà. Il se trouve que les IETF Meetings ont lieu un peu partout dans le
 La conférence débute le week-end (samedi et dimanche) par un hackathon. Il faut y comprendre *hack* = coder/bidouiller/casser/chercher/trouver et *athon* = marathon. Donc en gros, il y a des participants qui se retrouvent pendant 48 heures pour faire de la "programmation informatique collaborative". L'article Wikipédia [ici](https://fr.wikipedia.org/wiki/Hackathon) explique ça très bien.
 
 Moi, je suis un peu fou-fou... alors ce genre de défit ça me plait bien. Sortir de sa zone de confort, se confronter à d'autres choses, travailler en équipe autour d'un projet innovant, des fois jamais encore réalisé : voilà une belle motivation. Bingo! je demande à mon employeur si je peux aussi y aller et OK, c'est accepté. #Cool aussi.
-
 
