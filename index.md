@@ -28,12 +28,17 @@ Un hackathon ça se prépare. Il y a les *Champions* (capitaine, porteur d'un su
 Les Champions doivent proposer et décrire à l'avance leurs projets/sujets afin que globalement l'hackathon ait un sens et que les participants puissent s'engager sur tel ou tel sujet en fonction des affinités. Pour l'IETF101, les sujets sont [là](https://trac.ietf.org/trac/ietf/meeting/wiki/101hackathon). Je suis allé régulièrement sur cette page et au fur et à mesute j'y voyais apparaitre des sujets qui "piquent" (au sens c'est bien-bien compliqué) tous autant intéressant les uns que les autres mais posant tellement de question... Des sujets comme :
 
 > Demonstration of DNSProxy by Massimiliano Fantuzzi, a local proxy written in C, using a early pre-DoH schema.
+
 > Development of Sending and Receiving Implementations of multipart/multilingual content types. This refers to RFC 8255 - Multiple Language Content Type.
+
 > Measuring leakage from IoT with a MITM proxy.
+
 > An open reference platform implementing an "AMT Gateway" as described in BCP 213 section 3.3.
+
 > IPv6 compression and fragmentation for LPWAN technologies is being defined at the LPWAN WG.
+
 > Considerations for Benchmarking Virtual Network Functions and Their Infrastructure.
+
 > ...
 
 ça laisse réveurs... non ?!
-
