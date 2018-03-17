@@ -47,5 +47,5 @@ Il fallait bien que je me décide. Je devais trouver le bon rapport entre la pri
 
 Ça sera ***Development of Sending and Receiving Implementations of multipart/multilingual content types. This refers to [RFC 8255](https://trac.tools.ietf.org/html/rfc8255) - Multiple Language Content Type***. Bon, encore faut-il que le Champion veuillent bien de moi car c'est lui qui fait son équipe !
 
-<img src="IETF101-101hackathon-RFC8255-Multiple-Language-Content-Type.png" style="float: left; width: 400px;"/>
+<img src="IETF101-101hackathon-RFC8255-Multiple-Language-Content-Type.png" style="float: right; width: 400px;"/>
 J'avais repéré ce sujet il y a déjà quelques temps et ça me trottait dans la tête. J'ai donc commencé à regarder plus précisement ce qui se cachait derrière ce titre. De fil en aiguille, les choses me parraissent plus clairs, c'est dans mes cordes, les idées me viennent sans trop me torturer. Deux jours avant le départ je pose mes idées sur une carte heuristique afin de structurer ma pensée et voir ce qui sera possible de faire en l'espace de 48h. Il convient de ne pas trop être "gourmand" et ne pas se lancer dans des choses qui n'aboutiront au terme de 48h. Le but de l'hackathon est de "montrer" quelque chose qui fonctionne à minima. Mais des fois même le minima... c'est long et compliqué.
